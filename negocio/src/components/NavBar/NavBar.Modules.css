@@ -1,0 +1,66 @@
+nav {
+  background-color: #780119;
+  height: 60px;
+  padding: 10px;
+
+}
+
+  
+nav button {
+  margin: 80px;
+  border: 3px solid black;
+  border-radius:30px;
+  text-decoration: none;
+  background-color: #0a7a87;
+  color:black;
+  font-weight:lighter;
+  transition: all 0.9s;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
+nav button:hover {
+  background:rgb(70, 125, 133);
+  color:rgb(207, 125, 2);
+  font-size: 22px;
+
+}
+
+nav button.active {
+  background-color: #410000;
+}
+
+nav h3 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+  nav button {
+    display: none;
+  }
+  
+  nav {
+    flex-direction: column;
+  }
+}
+
+
+
+
+
+
+

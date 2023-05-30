@@ -1,0 +1,7 @@
+.container {
+    max-width: 600px; /* Ajusta el tamaño máximo según tus necesidades */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+  }
+  .formu{
+    color: white;
+  }

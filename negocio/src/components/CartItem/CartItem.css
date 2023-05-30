@@ -1,0 +1,19 @@
+.CartItem {
+  background-color: blue;
+  font-style: normal;
+  color: #000;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .CartItem h3 {
+    margin-top: 0;
+  }
+  
+  .CartItem p {
+    margin: 5px 0;
+  }
+  
+  /* Agrega estilos adicionales según tus necesidades */
+  

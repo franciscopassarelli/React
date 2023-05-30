@@ -1,0 +1,35 @@
+.Cart {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+  }
+  
+  .Cart h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Cart .Option {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .Cart .Button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .Cart .Total {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  /* Agrega estilos adicionales según tus necesidades */
+  
