@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+#  Proyecto Ecommerce DxTenis
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tienda Ecommerce para "coderhouse"
+<br>
 
-## Available Scripts
+## Autor : Francisco Nicolás Passarelli
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+### Quienes somos? 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>Una App!.</p>
+<p>Un comercio de tenis:  "Donde podrás comprar Raquetas, Indumentaria Deportiva. Hasta Accesorios de tenis"</p>
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+--------------------------------------------------------------
+## Estructura del Proyecto
 
-### `npm test`
+<p>El proyecto se compone con sus carpetas respectivas src , components , y sus dependencias con Firebase,firestore.</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+--------------------------------------------------------------
 
-### `npm run build`
+### Componentes Principales 
+<p>Los componentes usados son con carpetas: Components: Cart, CartItem, CartWidget, Checkout, CheckoutForm, Item, ItemCount, ItemDetail, ItemDetailContainer, ItemList, ItemListContainer, NavBar.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### A su vez contiene: 
+<p>Otras Carpetas donde se encuetran: Context, services/firebase, AsyncMock.js, Index.js, App.js </p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Y otras como: 
+<p>.gitignore, .env </p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-------------------------------------------------------------------------
 
-### `npm run eject`
+### Uso de la App
+#### La tienda esta compuesta por : <p>"tres botones donde fácilemnte podras acceder a tus compras"</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Por ejemplo:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<i>|| DxTenis || - - - - - - - | Raquetas | Indumentaria | Accesorios |</i> 
+<br>
+<p>Al clickear uno de esos botones allí podras iniciar el proceso de tu elección de productos y su cantidad , para volver a empezar solo deberás hacer click en DxTenis. Y no te olvides de cargar tus datos a lo ultimo para finalizar tu cómpra! </p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Gracias DxTenis!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---------------------------------------------------------------
 
-## Learn More
+## Agradecimientos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Coderhouse Argentina
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Tutor: Maximiliano José Tortosa 
+#### Tutor: Luka Liuzzi
+### Profe: Francisco Javier Llantada
 
-### Code Splitting
+------------------------------------------------------------
+## Licencia
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p> Las librerias o frameworoks , dependencias usados son React.js , Node.js , Git, Git Hub. Html, CSS.
 
-### Analyzing the Bundle Size
+--------------------------------------------------------------
+## Contácto 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Email: <i>franciscopassarelli7@gmail.com</i>
+### Linkedin: <i> www.linkedin.com/in/francisco-passarelli-287b5326b</i> 
+### GitHub: <i>https://github.com/franciscopassarelli/React</i>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
