@@ -1,4 +1,4 @@
-#  Proyecto Ecommerce DxTenis
+#  Proyecto Ecommerce Francisco TenisShop
 <br>
 
 ## Tienda Ecommerce para "coderhouse"
@@ -37,9 +37,9 @@
 
 #### Por ejemplo:
 
-<i>|| DxTenis || - - - - - - - | Raquetas | Indumentaria | Accesorios |</i> 
+<i>|| Francisco TenisShop|| - - - - - - - | Raquetas | Indumentaria | Accesorios |</i> 
 <br>
-<p>Al clickear uno de esos botones allí podras iniciar el proceso de tu elección de productos y su cantidad , para volver a empezar solo deberás hacer click en DxTenis. Y no te olvides de cargar tus datos a lo ultimo para finalizar tu cómpra! </p>
+<p>Al clickear uno de esos botones allí podras iniciar el proceso de tu elección de productos y su cantidad , para volver a empezar solo deberás hacer click en Francisco TenisShop. Y no te olvides de cargar tus datos a lo ultimo para finalizar tu cómpra! </p>
 
 ### Gracias DxTenis!
 

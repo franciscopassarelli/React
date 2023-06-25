@@ -1,11 +1,22 @@
 nav {
-  background-color: #780119;
+  background-color: #1d2126;
   height: 60px;
   padding: 10px;
 
+ }
+
+
+
+.BotonTitulo{
+  color: rgb(0, 202, 209);
 }
 
-  
+
+
+
+ 
+
+
 nav button {
   margin: 80px;
   border: 3px solid black;
@@ -29,7 +40,7 @@ nav button:hover {
 }
 
 nav button.active {
-  background-color: #410000;
+  background-color: #e3c3c3;
 }
 
 nav h3 {

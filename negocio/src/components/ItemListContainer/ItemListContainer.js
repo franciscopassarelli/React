@@ -48,7 +48,7 @@ const ItemListContainer = ({greeting}) =>{
     return(
         <div>
             <h1>{greeting}</h1>
-            <ItemList products ={products}/>
+            <ItemList products ={products} loading={loading}/>
         </div>
     )
 }
